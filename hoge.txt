@@ -1,0 +1,8 @@
+tamago
+sakana
+onabe
+yakiniku
+beef
+pork
+Chicken
+/*tamanegi*/
